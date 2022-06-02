@@ -1,0 +1,16 @@
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\bin\Debug\net5.0\Ternary.exe
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\bin\Debug\net5.0\Ternary.deps.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\bin\Debug\net5.0\Ternary.runtimeconfig.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\bin\Debug\net5.0\Ternary.runtimeconfig.dev.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\bin\Debug\net5.0\Ternary.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\bin\Debug\net5.0\Ternary.pdb
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\obj\Debug\net5.0\Ternary.csproj.AssemblyReference.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\obj\Debug\net5.0\Ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\obj\Debug\net5.0\Ternary.AssemblyInfoInputs.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\obj\Debug\net5.0\Ternary.AssemblyInfo.cs
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\obj\Debug\net5.0\Ternary.csproj.CoreCompileInputs.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\obj\Debug\net5.0\Ternary.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\obj\Debug\net5.0\refint\Ternary.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\obj\Debug\net5.0\Ternary.pdb
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\obj\Debug\net5.0\Ternary.genruntimeconfig.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Ternary\obj\Debug\net5.0\ref\Ternary.dll

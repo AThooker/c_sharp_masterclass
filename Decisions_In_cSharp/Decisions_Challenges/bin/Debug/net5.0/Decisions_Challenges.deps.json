@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Decisions_Challenges/1.0.0": {
+        "runtime": {
+          "Decisions_Challenges.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decisions_Challenges/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\bin\Debug\net5.0\Decisions_In_cSharp.exe
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\bin\Debug\net5.0\Decisions_In_cSharp.deps.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\bin\Debug\net5.0\Decisions_In_cSharp.runtimeconfig.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\bin\Debug\net5.0\Decisions_In_cSharp.runtimeconfig.dev.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\bin\Debug\net5.0\Decisions_In_cSharp.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\bin\Debug\net5.0\Decisions_In_cSharp.pdb
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\obj\Debug\net5.0\Decisions_In_cSharp.csproj.AssemblyReference.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\obj\Debug\net5.0\Decisions_In_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\obj\Debug\net5.0\Decisions_In_cSharp.AssemblyInfoInputs.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\obj\Debug\net5.0\Decisions_In_cSharp.AssemblyInfo.cs
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\obj\Debug\net5.0\Decisions_In_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\obj\Debug\net5.0\Decisions_In_cSharp.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\obj\Debug\net5.0\refint\Decisions_In_cSharp.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\obj\Debug\net5.0\Decisions_In_cSharp.pdb
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\obj\Debug\net5.0\Decisions_In_cSharp.genruntimeconfig.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_In_cSharp\obj\Debug\net5.0\ref\Decisions_In_cSharp.dll

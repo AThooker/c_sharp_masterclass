@@ -1,0 +1,16 @@
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\bin\Debug\net5.0\Decisions_Challenges.exe
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\bin\Debug\net5.0\Decisions_Challenges.deps.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\bin\Debug\net5.0\Decisions_Challenges.runtimeconfig.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\bin\Debug\net5.0\Decisions_Challenges.runtimeconfig.dev.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\bin\Debug\net5.0\Decisions_Challenges.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\bin\Debug\net5.0\Decisions_Challenges.pdb
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\obj\Debug\net5.0\Decisions_Challenges.csproj.AssemblyReference.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\obj\Debug\net5.0\Decisions_Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\obj\Debug\net5.0\Decisions_Challenges.AssemblyInfoInputs.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\obj\Debug\net5.0\Decisions_Challenges.AssemblyInfo.cs
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\obj\Debug\net5.0\Decisions_Challenges.csproj.CoreCompileInputs.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\obj\Debug\net5.0\Decisions_Challenges.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\obj\Debug\net5.0\refint\Decisions_Challenges.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\obj\Debug\net5.0\Decisions_Challenges.pdb
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\obj\Debug\net5.0\Decisions_Challenges.genruntimeconfig.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\Decisions_Challenges\obj\Debug\net5.0\ref\Decisions_Challenges.dll

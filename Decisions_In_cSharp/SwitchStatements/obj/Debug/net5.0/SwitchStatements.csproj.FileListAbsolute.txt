@@ -1,0 +1,16 @@
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\bin\Debug\net5.0\SwitchStatements.exe
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\bin\Debug\net5.0\SwitchStatements.deps.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.dev.json
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\bin\Debug\net5.0\SwitchStatements.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\bin\Debug\net5.0\SwitchStatements.pdb
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\obj\Debug\net5.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfo.cs
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\obj\Debug\net5.0\SwitchStatements.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\obj\Debug\net5.0\refint\SwitchStatements.dll
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\obj\Debug\net5.0\SwitchStatements.pdb
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\obj\Debug\net5.0\SwitchStatements.genruntimeconfig.cache
+C:\Users\17654\cSharp_master_class\Decisions_In_cSharp\SwitchStatements\obj\Debug\net5.0\ref\SwitchStatements.dll
