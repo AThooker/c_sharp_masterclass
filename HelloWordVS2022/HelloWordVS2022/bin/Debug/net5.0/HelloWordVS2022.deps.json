@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HelloWordVS2022/1.0.0": {
+        "runtime": {
+          "HelloWordVS2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWordVS2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

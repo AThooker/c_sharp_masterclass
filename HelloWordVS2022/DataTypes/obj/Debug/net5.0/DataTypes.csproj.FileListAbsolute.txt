@@ -1,0 +1,16 @@
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\bin\Debug\net5.0\DataTypes.exe
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\bin\Debug\net5.0\DataTypes.deps.json
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.json
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.dev.json
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\bin\Debug\net5.0\DataTypes.dll
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\bin\Debug\net5.0\DataTypes.pdb
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\obj\Debug\net5.0\DataTypes.csproj.AssemblyReference.cache
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\obj\Debug\net5.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfo.cs
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\obj\Debug\net5.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\obj\Debug\net5.0\DataTypes.dll
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\obj\Debug\net5.0\refint\DataTypes.dll
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\obj\Debug\net5.0\DataTypes.pdb
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\obj\Debug\net5.0\DataTypes.genruntimeconfig.cache
+C:\Users\17654\cSharp_master_class\HelloWordVS2022\DataTypes\obj\Debug\net5.0\ref\DataTypes.dll

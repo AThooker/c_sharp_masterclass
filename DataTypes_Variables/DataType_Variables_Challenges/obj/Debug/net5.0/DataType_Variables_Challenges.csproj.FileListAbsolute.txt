@@ -1,0 +1,16 @@
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\bin\Debug\net5.0\DataType_Variables_Challenges.exe
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\bin\Debug\net5.0\DataType_Variables_Challenges.deps.json
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\bin\Debug\net5.0\DataType_Variables_Challenges.runtimeconfig.json
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\bin\Debug\net5.0\DataType_Variables_Challenges.runtimeconfig.dev.json
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\bin\Debug\net5.0\DataType_Variables_Challenges.dll
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\bin\Debug\net5.0\DataType_Variables_Challenges.pdb
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\obj\Debug\net5.0\DataType_Variables_Challenges.csproj.AssemblyReference.cache
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\obj\Debug\net5.0\DataType_Variables_Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\obj\Debug\net5.0\DataType_Variables_Challenges.AssemblyInfoInputs.cache
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\obj\Debug\net5.0\DataType_Variables_Challenges.AssemblyInfo.cs
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\obj\Debug\net5.0\DataType_Variables_Challenges.csproj.CoreCompileInputs.cache
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\obj\Debug\net5.0\DataType_Variables_Challenges.dll
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\obj\Debug\net5.0\refint\DataType_Variables_Challenges.dll
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\obj\Debug\net5.0\DataType_Variables_Challenges.pdb
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\obj\Debug\net5.0\DataType_Variables_Challenges.genruntimeconfig.cache
+C:\Users\17654\cSharp_master_class\DataTypes_Variables\DataType_Variables_Challenges\obj\Debug\net5.0\ref\DataType_Variables_Challenges.dll

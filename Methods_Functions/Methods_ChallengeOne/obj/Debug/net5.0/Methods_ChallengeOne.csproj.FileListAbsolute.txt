@@ -1,0 +1,16 @@
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\bin\Debug\net5.0\Methods_ChallengeOne.exe
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\bin\Debug\net5.0\Methods_ChallengeOne.deps.json
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\bin\Debug\net5.0\Methods_ChallengeOne.runtimeconfig.json
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\bin\Debug\net5.0\Methods_ChallengeOne.runtimeconfig.dev.json
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\bin\Debug\net5.0\Methods_ChallengeOne.dll
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\bin\Debug\net5.0\Methods_ChallengeOne.pdb
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\obj\Debug\net5.0\Methods_ChallengeOne.csproj.AssemblyReference.cache
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\obj\Debug\net5.0\Methods_ChallengeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\obj\Debug\net5.0\Methods_ChallengeOne.AssemblyInfoInputs.cache
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\obj\Debug\net5.0\Methods_ChallengeOne.AssemblyInfo.cs
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\obj\Debug\net5.0\Methods_ChallengeOne.csproj.CoreCompileInputs.cache
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\obj\Debug\net5.0\Methods_ChallengeOne.dll
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\obj\Debug\net5.0\refint\Methods_ChallengeOne.dll
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\obj\Debug\net5.0\Methods_ChallengeOne.pdb
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\obj\Debug\net5.0\Methods_ChallengeOne.genruntimeconfig.cache
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_ChallengeOne\obj\Debug\net5.0\ref\Methods_ChallengeOne.dll

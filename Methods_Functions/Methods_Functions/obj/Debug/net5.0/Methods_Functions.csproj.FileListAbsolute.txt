@@ -1,0 +1,16 @@
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\bin\Debug\net5.0\Methods_Functions.exe
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\bin\Debug\net5.0\Methods_Functions.deps.json
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\bin\Debug\net5.0\Methods_Functions.runtimeconfig.json
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\bin\Debug\net5.0\Methods_Functions.runtimeconfig.dev.json
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\bin\Debug\net5.0\Methods_Functions.dll
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\bin\Debug\net5.0\Methods_Functions.pdb
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\obj\Debug\net5.0\Methods_Functions.csproj.AssemblyReference.cache
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\obj\Debug\net5.0\Methods_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\obj\Debug\net5.0\Methods_Functions.AssemblyInfoInputs.cache
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\obj\Debug\net5.0\Methods_Functions.AssemblyInfo.cs
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\obj\Debug\net5.0\Methods_Functions.csproj.CoreCompileInputs.cache
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\obj\Debug\net5.0\Methods_Functions.dll
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\obj\Debug\net5.0\refint\Methods_Functions.dll
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\obj\Debug\net5.0\Methods_Functions.pdb
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\obj\Debug\net5.0\Methods_Functions.genruntimeconfig.cache
+C:\Users\17654\cSharp_master_class\Methods_Functions\Methods_Functions\obj\Debug\net5.0\ref\Methods_Functions.dll
