@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{238E2433-F469-4110-9799-91C32F3F9846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{25208C79-5099-40DA-8FBC-210F4D0AD940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{F9AC7627-1D25-4260-9916-8F65EF82CAFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{238E2433-F469-4110-9799-91C32F3F9846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238E2433-F469-4110-9799-91C32F3F9846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238E2433-F469-4110-9799-91C32F3F9846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238E2433-F469-4110-9799-91C32F3F9846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25208C79-5099-40DA-8FBC-210F4D0AD940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25208C79-5099-40DA-8FBC-210F4D0AD940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25208C79-5099-40DA-8FBC-210F4D0AD940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25208C79-5099-40DA-8FBC-210F4D0AD940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AC7627-1D25-4260-9916-8F65EF82CAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AC7627-1D25-4260-9916-8F65EF82CAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AC7627-1D25-4260-9916-8F65EF82CAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AC7627-1D25-4260-9916-8F65EF82CAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F280DAD7-7966-4622-A47C-D2394D4780B4}
+	EndGlobalSection
+EndGlobal
