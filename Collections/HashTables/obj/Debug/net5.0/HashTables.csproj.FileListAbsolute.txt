@@ -1,0 +1,16 @@
+C:\Users\17654\cSharp_master_class\Collections\HashTables\bin\Debug\net5.0\HashTables.exe
+C:\Users\17654\cSharp_master_class\Collections\HashTables\bin\Debug\net5.0\HashTables.deps.json
+C:\Users\17654\cSharp_master_class\Collections\HashTables\bin\Debug\net5.0\HashTables.runtimeconfig.json
+C:\Users\17654\cSharp_master_class\Collections\HashTables\bin\Debug\net5.0\HashTables.runtimeconfig.dev.json
+C:\Users\17654\cSharp_master_class\Collections\HashTables\bin\Debug\net5.0\HashTables.dll
+C:\Users\17654\cSharp_master_class\Collections\HashTables\bin\Debug\net5.0\HashTables.pdb
+C:\Users\17654\cSharp_master_class\Collections\HashTables\obj\Debug\net5.0\HashTables.csproj.AssemblyReference.cache
+C:\Users\17654\cSharp_master_class\Collections\HashTables\obj\Debug\net5.0\HashTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\cSharp_master_class\Collections\HashTables\obj\Debug\net5.0\HashTables.AssemblyInfoInputs.cache
+C:\Users\17654\cSharp_master_class\Collections\HashTables\obj\Debug\net5.0\HashTables.AssemblyInfo.cs
+C:\Users\17654\cSharp_master_class\Collections\HashTables\obj\Debug\net5.0\HashTables.csproj.CoreCompileInputs.cache
+C:\Users\17654\cSharp_master_class\Collections\HashTables\obj\Debug\net5.0\HashTables.dll
+C:\Users\17654\cSharp_master_class\Collections\HashTables\obj\Debug\net5.0\refint\HashTables.dll
+C:\Users\17654\cSharp_master_class\Collections\HashTables\obj\Debug\net5.0\HashTables.pdb
+C:\Users\17654\cSharp_master_class\Collections\HashTables\obj\Debug\net5.0\HashTables.genruntimeconfig.cache
+C:\Users\17654\cSharp_master_class\Collections\HashTables\obj\Debug\net5.0\ref\HashTables.dll
