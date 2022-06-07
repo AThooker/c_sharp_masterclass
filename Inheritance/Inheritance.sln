@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{5D4B59F9-315E-4287-A96D-4029F0BADA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualAndOverride", "VirtualAndOverride\VirtualAndOverride.csproj", "{BFDA4B70-D961-4D8D-B7D2-73FD7E9C0AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4B59F9-315E-4287-A96D-4029F0BADA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4B59F9-315E-4287-A96D-4029F0BADA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4B59F9-315E-4287-A96D-4029F0BADA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4B59F9-315E-4287-A96D-4029F0BADA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDA4B70-D961-4D8D-B7D2-73FD7E9C0AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDA4B70-D961-4D8D-B7D2-73FD7E9C0AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDA4B70-D961-4D8D-B7D2-73FD7E9C0AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDA4B70-D961-4D8D-B7D2-73FD7E9C0AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B754C6B1-356D-433B-A5E2-9EBE43222D59}
+	EndGlobalSection
+EndGlobal

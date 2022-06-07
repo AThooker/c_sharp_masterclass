@@ -1,0 +1,16 @@
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\bin\Debug\net5.0\VirtualAndOverride.exe
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\bin\Debug\net5.0\VirtualAndOverride.deps.json
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\bin\Debug\net5.0\VirtualAndOverride.runtimeconfig.json
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\bin\Debug\net5.0\VirtualAndOverride.runtimeconfig.dev.json
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\bin\Debug\net5.0\VirtualAndOverride.dll
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\bin\Debug\net5.0\VirtualAndOverride.pdb
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\obj\Debug\net5.0\VirtualAndOverride.csproj.AssemblyReference.cache
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\obj\Debug\net5.0\VirtualAndOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\obj\Debug\net5.0\VirtualAndOverride.AssemblyInfoInputs.cache
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\obj\Debug\net5.0\VirtualAndOverride.AssemblyInfo.cs
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\obj\Debug\net5.0\VirtualAndOverride.csproj.CoreCompileInputs.cache
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\obj\Debug\net5.0\VirtualAndOverride.dll
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\obj\Debug\net5.0\refint\VirtualAndOverride.dll
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\obj\Debug\net5.0\VirtualAndOverride.pdb
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\obj\Debug\net5.0\VirtualAndOverride.genruntimeconfig.cache
+C:\Users\17654\cSharp_master_class\Inheritance\VirtualAndOverride\obj\Debug\net5.0\ref\VirtualAndOverride.dll

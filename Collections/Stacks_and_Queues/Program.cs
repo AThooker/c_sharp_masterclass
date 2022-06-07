@@ -24,6 +24,12 @@ namespace Stacks_and_Queues
                 currentOrder.ProcessOrder();
             }
         }
+        //type three back slashes creates summary section
+        /// <summary>
+        /// The is a summer about the stack practice method
+        /// </summary>
+        /// <param name="none"></param>
+        /// <returns>void</returns>
 
         public static void StackPractice()
         {
