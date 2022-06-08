@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{5D4B59F9-315E-4287-A96D-4029F0BADA93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{5D4B59F9-315E-4287-A96D-4029F0BADA93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualAndOverride", "VirtualAndOverride\VirtualAndOverride.csproj", "{BFDA4B70-D961-4D8D-B7D2-73FD7E9C0AD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualAndOverride", "VirtualAndOverride\VirtualAndOverride.csproj", "{BFDA4B70-D961-4D8D-B7D2-73FD7E9C0AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Demo", "Inheritance_Demo\Inheritance_Demo.csproj", "{58170D89-CB94-4D73-91CA-AAE468DBAC4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceChallenge_Employees", "InheritanceChallenge_Employees\InheritanceChallenge_Employees.csproj", "{ECDE12A2-F14E-49B7-BAB1-79D3B75DFB61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{DA429318-FC37-4DBC-A4AB-B2196E619C1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{BFDA4B70-D961-4D8D-B7D2-73FD7E9C0AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFDA4B70-D961-4D8D-B7D2-73FD7E9C0AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFDA4B70-D961-4D8D-B7D2-73FD7E9C0AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58170D89-CB94-4D73-91CA-AAE468DBAC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58170D89-CB94-4D73-91CA-AAE468DBAC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58170D89-CB94-4D73-91CA-AAE468DBAC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58170D89-CB94-4D73-91CA-AAE468DBAC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDE12A2-F14E-49B7-BAB1-79D3B75DFB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDE12A2-F14E-49B7-BAB1-79D3B75DFB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDE12A2-F14E-49B7-BAB1-79D3B75DFB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDE12A2-F14E-49B7-BAB1-79D3B75DFB61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA429318-FC37-4DBC-A4AB-B2196E619C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA429318-FC37-4DBC-A4AB-B2196E619C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA429318-FC37-4DBC-A4AB-B2196E619C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA429318-FC37-4DBC-A4AB-B2196E619C1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

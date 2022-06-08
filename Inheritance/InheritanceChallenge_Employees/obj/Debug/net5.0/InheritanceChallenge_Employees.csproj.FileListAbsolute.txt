@@ -1,0 +1,16 @@
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\bin\Debug\net5.0\InheritanceChallenge_Employees.exe
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\bin\Debug\net5.0\InheritanceChallenge_Employees.deps.json
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\bin\Debug\net5.0\InheritanceChallenge_Employees.runtimeconfig.json
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\bin\Debug\net5.0\InheritanceChallenge_Employees.runtimeconfig.dev.json
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\bin\Debug\net5.0\InheritanceChallenge_Employees.dll
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\bin\Debug\net5.0\InheritanceChallenge_Employees.pdb
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\obj\Debug\net5.0\InheritanceChallenge_Employees.csproj.AssemblyReference.cache
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\obj\Debug\net5.0\InheritanceChallenge_Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\obj\Debug\net5.0\InheritanceChallenge_Employees.AssemblyInfoInputs.cache
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\obj\Debug\net5.0\InheritanceChallenge_Employees.AssemblyInfo.cs
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\obj\Debug\net5.0\InheritanceChallenge_Employees.csproj.CoreCompileInputs.cache
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\obj\Debug\net5.0\InheritanceChallenge_Employees.dll
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\obj\Debug\net5.0\refint\InheritanceChallenge_Employees.dll
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\obj\Debug\net5.0\InheritanceChallenge_Employees.pdb
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\obj\Debug\net5.0\InheritanceChallenge_Employees.genruntimeconfig.cache
+C:\Users\17654\cSharp_master_class\Inheritance\InheritanceChallenge_Employees\obj\Debug\net5.0\ref\InheritanceChallenge_Employees.dll
